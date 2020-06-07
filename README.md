@@ -1,16 +1,9 @@
-# ecommerce_interaction_concept
+![](https://github.com/rifqieh/ecommerce-interaction-concept/blob/master/ecommerce_interaction_concept.png)
 
-A new Flutter project.
+# Doctor Consultation App
+## [Youtube: E-Commerce Interaction Concept - Speed Code](https://www.youtube.com/watch?v=xk1nbtstR68&feature=youtu.be)
+Packages
+- [google_fonts](https://pub.dev/packages/google_fonts)
+- [carousel slider](https://pub.dev/packages/carousel_slider)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Design Credit: [daav](https://dribbble.com/shots/10684489-E-commerce-Interaction)
